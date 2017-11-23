@@ -1054,6 +1054,8 @@
 			this.DOM.trigger.addEventListener('mouseleave', this.mouseleaveFn);
 			this.DOM.trigger.addEventListener('touchstart', this.mouseenterFn);
 			this.DOM.trigger.addEventListener('touchend', this.mouseleaveFn);
+			this.DOM.trigger.addEventListener('click', this.mouseenterFn);
+			this.DOM.trigger.addEventListener('click', this.mouseleaveFn);
 		}
 		show() {
 			this.animate('in');
