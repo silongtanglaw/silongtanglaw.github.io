@@ -48,6 +48,7 @@ a:focus {
 	width: 100%;
 	padding: 1.5em 1.5em 4em;
 	text-align: left;
+	justify-content: space-between;
 }
 
 .codrops-header__title {
@@ -172,4 +173,9 @@ a:focus {
 img {
 	width: 200px;
 	height: 200px;
+}
+
+.mobile-instruction {
+	font-style: italic;
+	font-size: 10px;
 }
