@@ -487,24 +487,17 @@ a:focus {
 		font-size: 1.35em;
 	}
 
+	.content--layout {
+		pointer-events: auto;
+		display: flex;
+		flex-flow: column wrap;
+	}
+
 }
 
 @media screen and (max-width: 28em) {
 	.content--layout {
 		transform: scale3d(0.5,0.5,1);
-	}
-
-	.content--layout {
-		pointer-events: auto;
-		display: flex;
-		flex-flow: column wrap;
-/*		justify-content: center;
-		align-content: center;
-		grid-template-columns: 150px 150px 150px 150px; 
-		grid-template-rows: 150px 75px 75px;
-		grid-template-areas:	"... title title title"
-								"author ... desc desc"
-								"author ... link link";*/
 	}
 }
 
