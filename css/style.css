@@ -14,12 +14,12 @@
 }
 
 body {
-	--text-color: #fff;
-	--background-color: #8ac640;
-	--background-color-2: #8ac640;
-	--background-color-3: #8ac640;
-	--link-color: #c1292e;
-	--link-hover-color: #fff;
+	--text-color: #666;
+	--background-color: #F5EDC6;
+	--background-color-2: #F5EDC6;
+	--background-color-3: #F5EDC6;
+	--link-color: #F16344;
+	--link-hover-color: #666;
 	font-family: 'Roboto Mono', monospace;
 	font-weight: 500;
 	color: #fff;
@@ -205,6 +205,7 @@ a:focus {
 	text-transform: lowercase;
 	z-index: 10;
 	cursor: default;
+	color: #F16344;
 }
 
 .content__author {
@@ -492,11 +493,28 @@ a:focus {
 	.content--layout {
 		transform: scale3d(0.5,0.5,1);
 	}
+
+	.content--layout {
+		pointer-events: auto;
+		display: flex;
+		flex-flow: column wrap;
+/*		justify-content: center;
+		align-content: center;
+		grid-template-columns: 150px 150px 150px 150px; 
+		grid-template-rows: 150px 75px 75px;
+		grid-template-areas:	"... title title title"
+								"author ... desc desc"
+								"author ... link link";*/
+	}
 }
 
 /* Misc */
 .ead {
-	color: black;
+	color: #F16344;
+}
+
+.content__link__withinp {
+	padding: 0;
 }
 
 

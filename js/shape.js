@@ -126,7 +126,7 @@
 			tx: -30,
 			ty: -300,
 			fill: {
-				color: '#609a41',
+				color: '#ACDD91',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -151,7 +151,7 @@
 			tx: 0,
 			ty: -100,
 			fill: {
-				color: '#609a41',
+				color: '#ACDD91',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -176,7 +176,7 @@
 			tx: 200,
 			ty: 200,
 			fill: {
-				color: '#609a41',
+				color: '#ACDD91',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -201,7 +201,7 @@
 			tx: 0,
 			ty: -50,
 			fill: {
-				color: '#609a41',
+				color: '#ACDD91',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -226,7 +226,7 @@
 			tx: 250,
 			ty: 50,
 			fill: {
-				color: '#609a41',
+				color: '#ACDD91',
 				duration: 500,
 				easing: 'linear'
 			},
@@ -252,7 +252,7 @@
 			tx: 0,
 			ty: -50,
 			fill: {
-				color: '#609a41',
+				color: '#089556',
 				duration: 500,
 				easing: 'linear'
 			},
