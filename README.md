@@ -2,7 +2,7 @@
 
 Silong Tanglaw Foundation is a non-profit organization that provides underprivileged children with shelter, guidance, and education.
 
-Code base from [Morphing Background](https://tympanus.net/codrops/?p=31190) and [Tooltip Animation]([Article on Codrops](https://tympanus.net/codrops/?p=31283)
+Code base from [Morphing Background](https://tympanus.net/codrops/?p=31190) and [Tooltip Animation](https://tympanus.net/codrops/?p=31283)
 
 ## Credits
 
