@@ -1,14 +1,8 @@
-# Morphing Background Shapes
+# Silong Tanglaw Foundation Site
 
-A decorative background effect where SVG shapes morph and transform on scroll.
+Silong Tanglaw Foundation is a non-profit organization that provides underprivileged children with shelter, guidance, and education.
 
-![Morphing Background Shapes](https://tympanus.net/codrops/wp-content/uploads/2017/05/MorphingBackgroundShapes_Featured.jpg)
-
-[Article on Codrops](https://tympanus.net/codrops/?p=31190)
-
-[Demo](https://tympanus.net/Development/MorphingBackgroundShapes/)
-
-This demo is kindly sponsored by [HelloSign API](http://synd.co/2pHxJny).
+Code base from [Morphing Background](https://tympanus.net/codrops/?p=31190) and [Tooltip Animation]([Article on Codrops](https://tympanus.net/codrops/?p=31283)
 
 ## Credits
 
@@ -17,6 +11,7 @@ This demo is kindly sponsored by [HelloSign API](http://synd.co/2pHxJny).
 - Images copyright by [Jim Lepage](http://jimlepage.com/). Purchase here: [Abstract Paint Remix, Vol. 1](http://jimlepage.com/shop/abstract-paint-remix-vol-1)
 - Fonts: [Nexa Bold](http://www.fontfabric.com/nexa-free-font/) by Fontfabric and [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono) by Christian Robertson.
 - SVG shapes made with [Inkscape](https://inkscape.org/en/)
+- [Charming.js](https://github.com/yuanqing/charming) by Yuan Qing
 
 ## License
 This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
